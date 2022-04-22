@@ -1,4 +1,4 @@
-### 👋 Glad to see you on this page. I hope you find something interesting here
+### 👋 Glad to see you on this page. I'm full-stack developer. Hope you find something interesting here
 
 ### Languages & Tools
 | Techonologies                                                                                                                                                            | Description | Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
